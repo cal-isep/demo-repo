@@ -1,0 +1,3 @@
+detalhes do projeto
+
+importante
